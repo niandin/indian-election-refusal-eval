@@ -2,7 +2,8 @@
 
 Testing election manipulation requests on Sarvam 105B and global LLMs in English, Hindi and Bengali.
 
-Nandini Nair and Rishika Rai, TARA 2026. Mentor: Ajay Agarwal.
+Nandini Nair and Rishika Rai (TARA 2026). 
+Mentor: Ajay Agarwal.
 
 ## What this project does
 We test whether AI models will write election manipulation content for Indian elections, such as false voting information, communal rumours and fake grassroots posts, when asked in English, Hindi and Bengali. Each manipulation request is paired with a near-identical legitimate request, so we measure both how often models help with manipulation and how often they wrongly refuse ordinary political requests.
